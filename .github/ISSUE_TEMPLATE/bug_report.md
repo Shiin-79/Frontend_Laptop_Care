@@ -7,28 +7,22 @@ assignees: ''
 
 ---
 
-**Deskripsi Bug**
-Tuliskan deskripsi singkat tentang bug yang Anda temukan.
+**Deskripsi Bug** *required*
+<!-- Tuliskan deskripsi singkat tentang bug yang Anda temukan. -->
 
-**Tanggal Terjadi**
-Kapan bug ini terjadi?
+**Tanggal Terjadi** *required*
+<!-- Kapan bug ini terjadi? -->
 
 **Tingkat Kritis**
 - [ ] Minor
 - [ ] Major
 - [ ] Critical
 
-**Langkah untuk Mereproduksi Bug**
-Langkah-langkah untuk mereproduksi perilaku bug:
-1. 
-2. 
-3. 
-
 **Harapan**
-Apa yang Anda harapkan terjadi?
+<!-- Apa yang Anda harapkan terjadi? -->
 
 **Screenshot atau Video**
-Jika memungkinkan, tambahkan screenshot atau video yang menunjukkan bug tersebut.
+<!-- Jika memungkinkan, tambahkan screenshot atau video yang menunjukkan bug tersebut. -->
 
-**Tambahan Komentar**
-Tambahkan komentar tambahan jika ada.
+---
+Harap diperhatikan bahwa semua bagian yang ditandai dengan *required* adalah wajib diisi.
